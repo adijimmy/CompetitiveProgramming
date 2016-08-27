@@ -1,2 +1,8 @@
 # Competitive_Programming
-Just algorithmic codes written by me to see later
+Algorithmic Codes to refer later.
+
+#include "bits/stdc++.h"
+using namespace std;
+int main() {
+  return 0;
+}
